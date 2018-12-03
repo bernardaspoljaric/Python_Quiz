@@ -1,0 +1,4 @@
+Autor: Bernarda Špoljarić
+Jednostavan kviz napravljen u Pyhtonu.
+Kviz započinje tako korisnik prvo unosi svoje ime, nakon toga nudi mu se izbornik što bi htio raditi. Ponuđene opcije su Play Game gdje unosom broja 1 ili riječi play započinje kviz u kojemu se nasumično iščitava 20 pitanja iz datoteke te računa broj točnih odgovora i broj netočnih odgovora koji se kasnije zapisuju u datoteku. Druga opcija koja se nudi je Add new question gdje unosom broja 2 ili riječi newQuestion korisnik može unjeti nova pitanja u kviz. Kada korisnik uđe u tu opciju program daje opis kako treba formulirati novo pitanje te pita koliko pitanja korisnik želi unijeti što znači da korisnik može unijeti beskonačno mnogo pitanja, a može i samo jedno. Treća opcija See rang list gdje unosom broja 3 ili riječi rangList se ispisuje 10 najboljih rezultata. Četvrta opcija je Exit koja služi za izlazak iz kviza.
+
